@@ -1,6 +1,6 @@
 ## Welcome to Volvox LLC!
 
-**Members**
+**Team Members**
 
 - [Bill](https://github.com/BillChirico): CEO & Co-Founder
 - [Ethan](https://github.com/Ethan-Guest): CTO
@@ -10,6 +10,6 @@
 - [Connor](https://github.com/cxnky/cxnky): Backend Developer
 - Jason: Scrum Master & Discord Manager
 - Hudson: Social Media Manager and Copywriter
-- Nick: Copywriter
+- [Nick](https://github.com/NickSchiazzano): Copywriter
 
 **[Join us on Discord!](https://discord.gg/Y6BgvsWuNU)**
