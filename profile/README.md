@@ -11,3 +11,5 @@
 - Connor: Backend Developer
 - Hudson: Social Media Manager and Copywriter
 - Nick: Copywriter
+
+**[Join us on Discord!](https://discord.gg/Y6BgvsWuNU)**
