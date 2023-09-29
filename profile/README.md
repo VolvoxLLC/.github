@@ -12,4 +12,7 @@
 - Hudson: Social Media Manager and Copywriter
 - [Nick](https://github.com/NickSchiazzano): Copywriter
 
+**Current Projects**\
+[Volvox.Apollo](http://24.199.116.15:3000/demo)
+
 **[Join us on Discord!](https://discord.gg/Y6BgvsWuNU)**
