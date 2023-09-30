@@ -9,7 +9,7 @@
 - [Sam](https://github.com/codingsamuel): Frontend Developer
 - [Connor](https://github.com/cxnky/cxnky): Backend Developer
 - [Jason](https://github.com/Jason-Hurtado): Scrum Master & Discord Manager
-- Hudson: Social Media Manager and Copywriter
+- [Hudson](https://github.com/hudsonisabella): Social Media Manager and Copywriter
 - [Nick](https://github.com/NickSchiazzano): Copywriter
 
 **Current Projects**\
