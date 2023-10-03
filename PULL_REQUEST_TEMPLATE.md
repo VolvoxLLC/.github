@@ -9,6 +9,7 @@ Please describe your changes in detail.
 - [ ] Feature
 - [ ] Bug Fix
 - [ ] Optimization
+- [ ] Database
 - [ ] Documentation Update
 
 ## Checklist before requesting a review
