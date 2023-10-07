@@ -19,6 +19,6 @@ Please describe your changes in detail.
 - [ ] I have commented my code
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings or errors
-- [ ] I have added tests
+- [ ] I have added unit and integration tests if necessary
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] I have checked my code and corrected any misspellings
