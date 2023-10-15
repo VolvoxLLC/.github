@@ -11,6 +11,8 @@ Please describe your changes in detail.
 - [ ] Optimization
 - [ ] Database
 - [ ] Documentation Update
+- [ ] Infrastructure
+- [ ] CI/CD
 
 ## Checklist before requesting a review
 
