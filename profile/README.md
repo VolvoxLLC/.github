@@ -6,11 +6,10 @@
 - [Ethan](https://github.com/Ethan-Guest): CTO
 - [Brian](https://github.com/brianebeling): Co-Founder
 - [Matt](https://github.com/mhallmark): Infrastructure & Backend Developer
-- [Sam](https://github.com/codingsamuel): Frontend Developer
-- [Connor](https://github.com/cxnky/cxnky): Backend Developer
+- [Connor](https://github.com/cxnky): Backend Developer
 - [Jason](https://github.com/Jason-Hurtado): Scrum Master & Discord Manager
-- [Hudson](https://github.com/hudsonisabella): Social Media Manager and Copywriter
-- [Nick](https://github.com/NickSchiazzano): Social Media Manager and Copywriter
+- [Hudson](https://github.com/hudsonisabella): Social Media Manager & Copywriter
+- [Nick](https://github.com/NickSchiazzano): Social Media Manager & Copywriter
 
 ### Current Projects
 - [Volvox.Apollo](https://apollo.volvox.tech)
