@@ -8,7 +8,7 @@
 - [Matt](https://github.com/mhallmark): Infrastructure & Backend Developer
 - [Connor](https://github.com/cxnky): Backend Developer
 - [Mohsin](https://github.com/mohsincoding): Frontend Developer
-- [Jason](https://github.com/Jason-Hurtado): Scrum Master & Discord Manager
+- [Jason](https://github.com/Jason-Hurtado): Administrative Assistant & Discord Manager
 - [Hudson](https://github.com/hudsonisabella): Social Media Manager & Copywriter
 - [Nick](https://github.com/NickSchiazzano): Social Media Manager & Copywriter
 
