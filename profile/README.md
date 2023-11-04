@@ -7,6 +7,7 @@
 - [Brian](https://github.com/brianebeling): Co-Founder
 - [Matt](https://github.com/mhallmark): Infrastructure & Backend Developer
 - [Connor](https://github.com/cxnky): Backend Developer
+- [Mukhtar](https://github.com/mohsincoding): Frontend Developer
 - [Jason](https://github.com/Jason-Hurtado): Scrum Master & Discord Manager
 - [Hudson](https://github.com/hudsonisabella): Social Media Manager & Copywriter
 - [Nick](https://github.com/NickSchiazzano): Social Media Manager & Copywriter
