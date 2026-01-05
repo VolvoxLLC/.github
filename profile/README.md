@@ -1,30 +1,34 @@
-<p align="center">
-  <img src="logo.png" alt="Volvox LLC" width="220" />
-</p>
+<div align="center">
+  <!-- Sobers favicon from VolvoxCommunity/sobers (pinned as the org logo) -->
+  <img src="https://raw.githubusercontent.com/VolvoxCommunity/sobers/8bac3ca4edc12d61baae27390f61efb7062d7859/assets/images/favicon.png" alt="Volvox Logo" width="160" />
+</div>
 
-<p align="center">
-  <strong>Volvox LLC</strong><br>
-  Building simple, reliable tools that help creators and decision-makers ship faster.
-</p>
+# Volvox LLC
 
-<p align="center">
-  <a href="https://discord.gg/8ahXACdamN"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://x.com/volvox_llc"><img src="https://img.shields.io/badge/X-@volvox_llc-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X"></a>
-  <a href="https://volvoxdev.com"><img src="https://img.shields.io/badge/Website-volvoxdev.com-0A7FC4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-</p>
+We build focused, reliable tools that help creators and teams ship better—thoughtfully and iteratively.
 
-## What We Build
+<div align="center">
+  <a href="https://discord.gg/8ahXACdamN" title="Join our Discord">
+    <img alt="Join our Discord" src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://x.com/volvox_llc" title="Follow us on X">
+    <img alt="Follow us on X" src="https://img.shields.io/badge/Follow%20@volvox_llc-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://volvoxdev.com" title="Visit our website">
+    <img alt="Visit our website" src="https://img.shields.io/badge/Website-volvoxdev.com-0A7FC4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
 
-- **Dosed** — Tools to help creators manage and monetize short-form content.
-- **Decision Jar** — Quick, shareable utilities for team decision-making.
+## What we build
+- Dosed — wellness and medication adherence  
+- Decision Jar — group decision tool
 
 ## Team
-
-- Bill Chirico — CEO & Founder
-- Matt — Infrastructure & Engineering
-- Blake — Social Media & Marketing
+- Bill Chirico — CEO & Founder  
+- Matt — Infrastructure & Engineering  
+- Blake — Social Media & Marketing  
 - Connor — Engineer
 
 ---
 
-If you need the logo path updated, replace `logo.png` above with the correct relative path or URL.
+Join us on Discord or visit our website to learn more.
