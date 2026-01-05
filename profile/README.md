@@ -1,31 +1,35 @@
-# Welcome to Volvox LLC
+# Volvox LLC
 
-We're a team of developers, designers, and builders creating innovative solutions that solve real problems. From intelligent moderation systems to health tech, we're building the future—one line of code at a time.
+<div align="right">
+  <img src="https://volvoxdev.com/logo.png" alt="Volvox Logo" width="150">
+</div>
+
+Welcome to Volvox LLC! We're building innovative solutions that make a difference.
 
 ## What We Build
 
-- **Volvox.Apollo** — Advanced message moderation system with machine learning
-- **Dosed** — Medication reminder and adherence tracker
-- **Decision Jar** — Collaborative decision-making app
-- **Volvox.Market** — Marketplace for Volvox products
-- **volvox-ng** — Reusable Angular component library
-- Plus gaming projects, infrastructure tools, and more
+At Volvox, we create cutting-edge applications and tools:
 
-## Meet the Team
+- **Dosed** - A comprehensive wellness and health tracking application
+- **Decision Jar** - An innovative decision-making tool for groups and individuals
 
-- [Bill Chirico](https://github.com/BillChirico) — Founder
-- [Brian](https://github.com/brianebeling) — Co-Founder
-- [Matt](https://github.com/mhallmark) — Infrastructure & Backend
-- [Sam](https://github.com/codingsamuel) — Frontend Developer
-- [Connor](https://github.com/cxnky) — Backend Developer
-- [Jason](https://github.com/Jason-Hurtado) — Scrum Master & Discord Manager
-- [Hudson](https://github.com/hudsonisabella) — Social Media Manager
-- [Nick](https://github.com/NickSchiazzano) — Copywriter
+## Team
+
+Meet the people behind Volvox:
+
+- **Bill Chirico** - CEO & Founder
+- **Matt** - Infrastructure & Engineering
+- **Blake** - Social Media and Marketing
+- **Connor** - Engineer
 
 ## Get Involved
 
-Check out our [repositories](https://github.com/VolvoxLLC), explore our [documentation](https://github.com/VolvoxLLC/Volvox.Apollo.Docs), or open an issue if you have questions. We welcome contributions and collaboration.
+We're passionate about our community and would love to have you join us!
+
+- **[Join Our Discord Community](https://discord.gg/8ahXACdamN)** - Connect with our team and community members
+- **[Follow us on X](https://x.com/volvox_llc)** - Stay updated with our latest news and announcements
+- **[Visit Our Website](https://volvoxdev.com)** - Learn more about our projects and mission
 
 ---
 
-Building better solutions since day one.
+*Made with ❤️ by the Volvox team*
