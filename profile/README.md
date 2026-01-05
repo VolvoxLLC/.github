@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Sobers favicon from VolvoxCommunity/sobers (pinned as the org logo) -->
+  <!-- Sobers favicon from VolvoxCommunity/sobers (used as the org logo) -->
   <img src="https://raw.githubusercontent.com/VolvoxCommunity/sobers/8bac3ca4edc12d61baae27390f61efb7062d7859/assets/images/favicon.png" alt="Volvox Logo" width="160" />
 </div>
 
@@ -20,15 +20,13 @@ We build focused, reliable tools that help creators and teams ship better—thou
 </div>
 
 ## What we build
-- Dosed — wellness and medication adherence  
+- Dosed — wellness and medication adherence
 - Decision Jar — group decision tool
 
 ## Team
-- Bill Chirico — CEO & Founder  
-- Matt — Infrastructure & Engineering  
-- Blake — Social Media & Marketing  
+- Bill Chirico — CEO & Founder
+- Matt — Infrastructure & Engineering
+- Blake — Social Media & Marketing
 - Connor — Engineer
-
----
 
 Join us on Discord or visit our website to learn more.
