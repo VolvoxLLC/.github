@@ -3,7 +3,7 @@
   
   <h1>Volvox LLC</h1>
   
-  <p><strong>Building thoughtful tools that empower creators and teams to ship with confidence.</strong></p>
+  <p><strong>Solving problems one commit at a time.</strong></p>
   
   <br />
   
@@ -19,65 +19,45 @@
     <img src="https://img.shields.io/badge/Follow%20%40Volvox_LLC-000000?style=flat&logo=x&logoColor=white" alt="Follow us on X" />
   </a>
 </div>
-
 <br />
-
-## 🚀 What We Build
-
+<h2>🚀 Our Products</h2>
 <table>
-  <thead>
-    <tr>
-      <th>Product</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Dosed</b></td>
-      <td>Wellness and medication adherence</td>
-    </tr>
-    <tr>
-      <td><b>Decision Jar</b></td>
-      <td>Group decision tool</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://sobers.app">Sobers</a></h3>
+      <blockquote>Think Jira for your sobriety.</blockquote>
+      <p>A recovery accountability app designed for anyone in sobriety—not limited to 12-step programs.</p>
+      <p><strong>Features:</strong></p>
+      <ul>
+        <li>Sponsor-sponsee pairing via invite codes</li>
+        <li>Sobriety tracking with relapse workflows</li>
+        <li>Task management</li>
+        <li>12-step content with reflections</li>
+        <li>Expense tracking to see how much you've saved</li>
+      </ul>
+      <div align="center">
+        <a href="https://apps.apple.com/app/id6755614815"><img src="https://img.shields.io/badge/iOS-App%20Store-000000?style=flat-square&logo=apple" alt="iOS"/></a>
+        <a href="https://sobers.app"><img src="https://img.shields.io/badge/Web-sobers.app-007AFF?style=flat-square&logo=safari" alt="Web"/></a>
+        <img src="https://img.shields.io/badge/Android-Coming%20Soon-3DDC84?style=flat-square&logo=android" alt="Android"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://decisionjar.app">Decision Jar</a></h3>
+      <blockquote>Combat decision fatigue with a shake.</blockquote>
+      <p>A decision-making app that uses gamification to help you choose. Shake the jar, get your answer.</p>
+      <p><strong>Features:</strong></p>
+      <ul>
+        <li>Custom jars for any decision type</li>
+        <li>AI-powered suggestions</li>
+        <li>Streaks & achievements</li>
+        <li>QR code sharing</li>
+        <li>Works offline</li>
+      </ul>
+      <div align="center">
+        <img src="https://img.shields.io/badge/iOS-Coming%20Soon-000000?style=flat-square&logo=apple" alt="iOS"/>
+        <a href="https://decisionjar.app"><img src="https://img.shields.io/badge/Web-decisionjar.app-007AFF?style=flat-square&logo=safari" alt="Web"/></a>
+        <a href="https://play.google.com/store/apps/details?id=com.volvox.decisionjar"><img src="https://img.shields.io/badge/Android-Play%20Store-3DDC84?style=flat-square&logo=googleplay" alt="Android"/></a>
+      </div>
+    </td>
+  </tr>
 </table>
-
-## 👥 Team
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Role</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Bill Chirico</b></td>
-      <td>CEO & Founder</td>
-    </tr>
-    <tr>
-      <td><b>Matt</b></td>
-      <td>Infrastructure & Engineering</td>
-    </tr>
-    <tr>
-      <td><b>Blake</b></td>
-      <td>Social Media & Marketing</td>
-    </tr>
-    <tr>
-      <td><b>Connor</b></td>
-      <td>Engineer</td>
-    </tr>
-  </tbody>
-</table>
-
-<br />
-
-<div align="center">
-  
-  ---
-  
-  🌐 Visit [volvoxdev.com](https://volvoxdev.com) to learn more | 💬 Connect on [Discord](https://discord.gg/8ahXACdamN)
-  
-</div>
