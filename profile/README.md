@@ -1,35 +1,30 @@
-# Volvox LLC
+<p align="center">
+  <img src="logo.png" alt="Volvox LLC" width="220" />
+</p>
 
-<div align="right">
-  <img src="https://volvoxdev.com/logo.png" alt="Volvox Logo" width="150">
-</div>
+<p align="center">
+  <strong>Volvox LLC</strong><br>
+  Building simple, reliable tools that help creators and decision-makers ship faster.
+</p>
 
-Welcome to Volvox LLC! We're building innovative solutions that make a difference.
+<p align="center">
+  <a href="https://discord.gg/8ahXACdamN"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://x.com/volvox_llc"><img src="https://img.shields.io/badge/X-@volvox_llc-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X"></a>
+  <a href="https://volvoxdev.com"><img src="https://img.shields.io/badge/Website-volvoxdev.com-0A7FC4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+</p>
 
 ## What We Build
 
-At Volvox, we create cutting-edge applications and tools:
-
-- **Dosed** - A comprehensive wellness and health tracking application
-- **Decision Jar** - An innovative decision-making tool for groups and individuals
+- **Dosed** — Tools to help creators manage and monetize short-form content.
+- **Decision Jar** — Quick, shareable utilities for team decision-making.
 
 ## Team
 
-Meet the people behind Volvox:
-
-- **Bill Chirico** - CEO & Founder
-- **Matt** - Infrastructure & Engineering
-- **Blake** - Social Media and Marketing
-- **Connor** - Engineer
-
-## Get Involved
-
-We're passionate about our community and would love to have you join us!
-
-- **[Join Our Discord Community](https://discord.gg/8ahXACdamN)** - Connect with our team and community members
-- **[Follow us on X](https://x.com/volvox_llc)** - Stay updated with our latest news and announcements
-- **[Visit Our Website](https://volvoxdev.com)** - Learn more about our projects and mission
+- Bill Chirico — CEO & Founder
+- Matt — Infrastructure & Engineering
+- Blake — Social Media & Marketing
+- Connor — Engineer
 
 ---
 
-*Made with ❤️ by the Volvox team*
+If you need the logo path updated, replace `logo.png` above with the correct relative path or URL.
