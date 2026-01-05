@@ -3,10 +3,13 @@
   
   # Volvox LLC
   
-  **We build focused, reliable tools that help creators and teams ship better—thoughtfully and iteratively.**
+  **Building thoughtful tools that empower creators and teams to ship with confidence.**
   
   <br />
   
+  <a href="https://volvoxdev.com" title="Visit our Website">
+    <img src="https://img.shields.io/badge/Visit%20our%20Website-4A90E2?style=flat&logo=firefox&logoColor=white" alt="Visit our Website" />
+  </a>
   <a href="https://discord.gg/8ahXACdamN" title="Join our Discord">
     <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Join our Discord" />
   </a>
@@ -57,6 +60,6 @@
   
   ---
   
-  💬 Join us on [Discord](https://discord.gg/8ahXACdamN) to learn more and connect with the community!
+  🌐 Visit [volvoxdev.com](https://volvoxdev.com) to learn more | 💬 Connect on [Discord](https://discord.gg/8ahXACdamN)
   
 </div>
