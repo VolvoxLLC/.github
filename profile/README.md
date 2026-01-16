@@ -38,7 +38,7 @@
       <div align="center">
         <a href="https://apps.apple.com/app/id6755614815"><img src="https://img.shields.io/badge/iOS-App%20Store-000000?style=flat-square&logo=apple" alt="iOS"/></a>
         <a href="https://sobers.app"><img src="https://img.shields.io/badge/Web-sobers.app-007AFF?style=flat-square&logo=safari" alt="Web"/></a>
-        <img src="https://img.shields.io/badge/Android-Coming%20Soon-3DDC84?style=flat-square&logo=android" alt="Android"/>
+        <a href="https://play.google.com/store/apps/details?id=com.volvox.sobers"><img src="https://img.shields.io/badge/Android-Play%20Store-3DDC84?style=flat-square&logo=googleplay" alt="Android"/></a>
       </div>
     </td>
     <td width="50%" valign="top">
