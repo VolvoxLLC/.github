@@ -20,11 +20,11 @@
   </a>
 </div>
 <br />
-<h2>🚀 Our Products</h2>
+<h2 align="center">🚀 Our Products</h2>
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://sobers.app">Sobers</a></h3>
+      <h3 align="center"><a href="https://sobers.app">Sobers</a></h3>
       <blockquote>Think Jira for your sobriety.</blockquote>
       <p>A recovery accountability app designed for anyone in sobriety—not limited to 12-step programs.</p>
       <p><strong>Features:</strong></p>
@@ -42,7 +42,7 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://decisionjar.app">Decision Jar</a></h3>
+      <h3 align="center"> <a href="https://decisionjar.app">Decision Jar</a></h3>
       <blockquote>Combat decision fatigue with a shake.</blockquote>
       <p>A decision-making app that uses gamification to help you choose. Shake the jar, get your answer.</p>
       <p><strong>Features:</strong></p>
@@ -54,7 +54,7 @@
         <li>Works offline</li>
       </ul>
       <div align="center">
-        <img src="https://img.shields.io/badge/iOS-Coming%20Soon-000000?style=flat-square&logo=apple" alt="iOS"/>
+        <a href="https://apps.apple.com/us/app/decision-jar-choice-maker/id6756397435"><img src="https://img.shields.io/badge/iOS-App%20Store-000000?style=flat-square&logo=apple" alt="iOS"/></a>
         <a href="https://decisionjar.app"><img src="https://img.shields.io/badge/Web-decisionjar.app-007AFF?style=flat-square&logo=safari" alt="Web"/></a>
         <a href="https://play.google.com/store/apps/details?id=com.volvox.decisionjar"><img src="https://img.shields.io/badge/Android-Play%20Store-3DDC84?style=flat-square&logo=googleplay" alt="Android"/></a>
       </div>
